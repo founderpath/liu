@@ -1,5 +1,10 @@
 # liu
 第一个仓库
 ```
-能代码？
-```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+  printf("hellw");
+  return 0;
+}
